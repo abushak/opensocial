@@ -1,0 +1,14 @@
+name: 'Social User Export'
+description: 'Adds ability to export users to a CSV.'
+type: module
+# core: 8.x
+package: Social
+dependencies:
+  - user
+  - csv_serialization
+
+# Information added by Drupal.org packaging script on 2017-05-18
+version: '8.x-1.0-rc5'
+core: '8.x'
+project: 'social'
+datestamp: 1495103593

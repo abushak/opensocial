@@ -1,0 +1,13 @@
+name: Sitewide JS
+type: module
+description: Module to insert site wide custom JS.
+# core: 8.x
+package: Field types
+dependencies:
+  - options
+
+# Information added by Drupal.org packaging script on 2017-05-18
+version: '8.x-1.0-rc5'
+core: '8.x'
+project: 'social'
+datestamp: 1495103593

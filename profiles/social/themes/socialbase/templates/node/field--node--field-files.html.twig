@@ -1,0 +1,8 @@
+<section class="node__files">
+  <h5 class="files__title">{{ "Files"|t }}</h5>
+  <ul class="files__grid">
+    {% for item in items %}
+      {{ item.content }}
+    {% endfor %}
+  </ul>
+</section>

@@ -1,0 +1,20 @@
+name: 'Social Event Managers'
+type: module
+description: 'Social Event Managers'
+# core: 8.x
+package: Social
+dependencies:
+  - block
+  - field
+  - node
+  - profile
+  - social_event
+  - social_profile
+  - user
+  - views
+
+# Information added by Drupal.org packaging script on 2017-05-18
+version: '8.x-1.0-rc5'
+core: '8.x'
+project: 'social'
+datestamp: 1495103593

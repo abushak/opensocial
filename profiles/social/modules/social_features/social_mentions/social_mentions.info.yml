@@ -1,0 +1,22 @@
+name: 'Social Mentions'
+description: 'Provide mentions feature for Open Social.'
+type: module
+# core: 8.x
+dependencies:
+  - activity_logger
+  - dynamic_entity_reference
+  - field
+  - image
+  - mentions
+  - message
+  - options
+  - profile
+  - social_core
+  - social_profile
+package: Social
+
+# Information added by Drupal.org packaging script on 2017-05-18
+version: '8.x-1.0-rc5'
+core: '8.x'
+project: 'social'
+datestamp: 1495103593

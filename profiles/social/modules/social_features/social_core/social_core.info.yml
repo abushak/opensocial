@@ -1,0 +1,32 @@
+name: 'Social Core'
+description: 'Provides core components required by other features.'
+type: module
+# core: 8.x
+dependencies:
+  - admin_toolbar_tools
+  - block
+  - block_content
+  - crop
+  - field
+  - field_group
+  - file
+  - help
+  - image
+  - image_widget_crop
+  - link
+  - node
+  - override_node_options
+  - r4032login
+  - social_core
+  - system
+  - template_suggestions_extra
+  - text
+  - user
+  - views
+package: Social
+
+# Information added by Drupal.org packaging script on 2017-05-18
+version: '8.x-1.0-rc5'
+core: '8.x'
+project: 'social'
+datestamp: 1495103593

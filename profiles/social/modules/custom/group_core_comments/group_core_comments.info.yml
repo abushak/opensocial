@@ -1,0 +1,18 @@
+name: 'Group Core Comments support'
+description: 'Enables Group functionality for the Comment module'
+package: 'Group'
+type: 'module'
+dependencies:
+  - 'comment'
+  - 'node'
+  - 'group'
+
+# version: '8.x-1.0-dev'
+# core: '8.x'
+# project: 'group_core_comments'
+
+# Information added by Drupal.org packaging script on 2017-05-18
+version: '8.x-1.0-rc5'
+core: '8.x'
+project: 'social'
+datestamp: 1495103593
